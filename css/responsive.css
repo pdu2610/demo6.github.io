@@ -1,0 +1,641 @@
+@media only screen and (max-width: 1860px) {}
+
+@media only screen and (max-width: 1680px) {}
+
+@media only screen and (max-width: 1440px) {}
+
+@media only screen and (max-width: 1366px) {}
+
+@media only screen and (max-width: 1280px) {
+  .offer-box {
+    border: 15px solid #4cbef1;
+    padding: 20px;
+    text-align: center;
+    height: 190px;
+    width: 190px;
+  }
+  .offer-box h3 {
+    font-size: 23px;
+    margin-bottom: 10px;
+    color: #0f9595;
+  }
+  .offer-box {
+    border: 15px solid #4cbef1;
+    padding: 10px 15px;
+    text-align: center;
+    height: 210px;
+    width: 190px;
+  }
+  .offer-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+  }
+  .about-img img {
+    height: 440px;
+  }
+}
+
+@media only screen and (max-width: 1199px) {
+  .footer-social-media a i {
+    padding: 7px 3px;
+  }
+  .office-our-box ul {
+    color: #ffffff;
+    line-height: 1.9;
+  }
+  .footer-left {
+    width: 100%;
+    padding: 20px 10px;
+    order: 2;
+  }
+  .footer-right {
+    width: 100%;
+    padding: 0px 10px;
+  }
+  .footer-inner-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px -15px;
+  }
+  .office-hours h3 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .review-box img {
+    height: 270px;
+  }
+  .footer-inner-col1 {
+    width: 41.6666%;
+    padding: 0px 10px;
+    text-align: center;
+  }
+  span.hours-time {
+    float: right;
+    width: 100%;
+    margin-left: -100px;
+    padding-left: 150px;
+  }
+  .contactus-form {
+    margin-left: 40px;
+  }
+  .footer-inner-col4 {
+    width: 33.3333%;
+    padding: 0px 10px;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 1169px) {
+  .menu {
+    margin-left: 0px;
+  }
+  .menu ul li {
+    padding: 0px 0px;
+  }
+  .menu ul li a {
+    border: 4px solid transparent;
+    padding: 5px 5px;
+  }
+}
+
+@media only screen and (max-width: 1023px) {}
+
+@media only screen and (min-width: 992px) {}
+
+@media only screen and (max-width: 991px) {
+  ul.main-menu {
+    display: none;
+  }
+  .about-img img {
+    height: auto;
+  }
+  .nav-toggle {
+    display: block;
+  }
+  .homebaner-caption .wrap-inner {
+    padding: 0px;
+  }
+  .gallery-col {
+    width: 33.33%;
+    padding: 10px 27px;
+  }
+  .gallery-box a {
+    display: inline-block;
+  }
+  .offer-col {
+    width: 33.3333%;
+    padding: 10px 15px;
+    text-align: center;
+  }
+  .offer-row {
+    justify-content: center;
+  }
+  .offer-box {
+    display: inline-block;
+  }
+  .about-col1 {
+    width: 100%;
+  }
+  .about-col2 {
+    width: 550px;
+    margin: auto;
+  }
+  ul.main-menu {
+    position: absolute;
+    top: 110px;
+    width: 100%;
+    height: 0;
+    padding: 0;
+    overflow: hidden;
+    right: 0;
+    left: 0px;
+    background-color: white;
+  }
+  ul.main-menu.active {
+    height: auto;
+    display: block;
+    z-index: 999999999999;
+    top: 77px;
+    width: 200px;
+    right: 0;
+    left: -8px;
+    text-align: center;
+  }
+  .menu ul li a.active {
+    border: 4px solid white;
+    padding: 5px 10px;
+  }
+  .menu ul li a:hover {
+    border: 4px solid white;
+    padding: 5px 10px;
+  }
+  .menu ul li a {
+    padding: 7px 9px;
+    border: 4px solid transparent;
+  }
+  .footer-left {
+    width: 100%;
+    padding: 0px 10px;
+    order: 2;
+  }
+  .footer-inner-col3 {
+    width: 100%;
+    padding: 0px 10px;
+  }
+  .footer-inner-col4 {
+    width: 100%;
+    padding: 0px 10px;
+  }
+  .footer-right {
+    width: 100%;
+    padding: 0px 10px;
+  }
+  .footer-inner-row {
+    text-align: center;
+  }
+  .office-hours h3 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  .footer-inner-col1 {
+    width: 33.33%;
+    padding: 0px 10px;
+  }
+  .footer-inner-col2 {
+    width: 33.3333%;
+    padding: 0px 10px;
+  }
+  .footer-inner-row {
+    text-align: center;
+    justify-content: center;
+  }
+  .review-box {
+    padding: 30px 0px 30px 0px;
+  }
+  .contactus-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px -15px;
+    justify-content: center;
+  }
+  .blog-section h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    color: #0f9595;
+    font-weight: 700;
+    font-size: 24px;
+  }
+  .offer-box {
+    border: 15px solid #4cbef1;
+    padding: 20px 10px 0px 10px;
+    text-align: center;
+    height: 190px;
+    width: 220px;
+  }
+  .offer-section {
+    padding: 40px 0px 0px 0px;
+  }
+  span.hours-time {
+    float: right;
+    width: 100%;
+    margin-left: -100px;
+    padding-left: 0px;
+  }
+  .contactus-form {
+    margin-left: 0px;
+}
+ul.main-menu.active {
+  height: auto;
+  display: block;
+  z-index: 999999999999;
+  top: 77px;
+  
+  right: 0;
+}
+}
+
+@media only screen and (max-width: 959px) {}
+
+@media only screen and (max-width: 800px) {}
+
+@media only screen and (max-width: 768px) {}
+
+@media only screen and (max-width: 767px) {
+  .header-main .wrap-inner {
+    display: block;
+  }
+  div#logo {
+    text-align: center;
+  }
+  .header-right {
+    justify-content: center;
+  }
+  .header-info {
+    justify-content: center;
+  }
+  .header-info {
+    display: block;
+    text-align: center;
+  }
+  .header-adress {
+    margin-bottom: 15px;
+  }
+  #logo {
+    position: relative;
+    top: 10px;
+  }
+  div#logo {
+    padding: 0px 0px 30px;
+  }
+  .header-main {
+    padding: 0px 0px 20px;
+  }
+  .header-number a {
+    padding: 7px 20px;
+  }
+  .header-book-btn a {
+    padding: 7px 15px;
+  }
+  .future-col {
+    width: 100%;
+    padding: 0px 15px;
+    margin-bottom: 30px;
+  }
+  .discount-col {
+    width: 100%;
+  }
+  .discount {
+    width: 100%;
+  }
+  .discount-col::before {
+    display: none
+  }
+  .discount-box {
+    max-width: 310px;
+    margin: 0 auto 20px;
+    border-bottom: 3px solid #4cbef1;
+    padding-bottom: 10px;
+  }
+  .offer-col {
+    width: 50%;
+  }
+  .blog-col {
+    width: 50%;
+    padding: 15px 15px;
+  }
+  .blog-row {
+    justify-content: center;
+  }
+  .homebaner-text h2 {
+    font-size: 22px;
+  }
+  .homebaner-text p {
+    font-size: 16px;
+    margin-top: 0px;
+  }
+  .offer-section {
+    padding: 0px;
+  }
+  .blog-section h2 {
+    margin-bottom: 20px;
+  }
+  .blog-section {
+    padding: 20px 0px;
+  }
+  .offer-section {
+    padding: 30px 0px 0px 0px;
+  }
+  .service-section {
+    padding: 0px 0px 40px 0px;
+  }
+  .gallery-section {
+    padding: 40px 0px 30px;
+  }
+  ul.main-menu.active {
+    height: auto;
+    display: block;
+    z-index: 999999999999;
+    top: 69px;
+    width: 200px;
+    right: 0;
+    left: -8px;
+    text-align: center;
+  }
+  .discoun {
+    width: 100%;
+    padding: 0px 15px;
+    text-align: center;
+    position: relative;
+  }
+  .footer-inner-col1 {
+    width: 50%;
+    padding: 20px 10px;
+  }
+  .office-hours h3 {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .footer-inner-col2 {
+    width: 300px;
+    padding: 0px 40px;
+  }
+  .homebaner-caption {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    /* justify-content: flex-end; */
+    width: 100%;
+    height: auto;
+  }
+  .homebaner-text {
+    max-width: 100%;
+    margin: 0 0 0 auto;
+    text-align: center;
+    background-color: #ffffff7d;
+    padding: 20px;
+  }
+  .offer-box {
+    border: 15px solid #4cbef1;
+    padding: 20px 10px 0px 10px;
+    text-align: center;
+    height: 190px;
+    width: 240px;
+  }
+  span.hours-time {
+    float: right;
+    width: 100%;
+    margin-left: -100px;
+    padding-left: 90px;
+  }
+}
+
+@media only screen and (max-width: 640px) {}
+
+@media only screen and (max-width: 575px) {
+  .gallery-col {
+    width: 50%;
+    padding: 10px 15px;
+  }
+  .gallery-row {
+    text-align: center;
+    margin: 0px;
+  }
+  .service-col {
+    width: 33.33%;
+    padding: 20px 15px;
+    text-align: center;
+  }
+  .service-icon h3 {
+    font-weight: 400;
+    margin-top: 10px;
+  }
+  .offer-col {
+    width: 100%;
+  }
+  .blog-row {
+    justify-content: center;
+    text-align: center;
+  }
+  .blog-col {
+    width: 100%;
+    padding: 15px 15px;
+  }
+  .service-section h2 {
+    margin-bottom: 20px;
+  }
+  .service-section {
+    padding: 0px 0px 20px 0px;
+  }
+  .about-col2 {
+    width: 550px;
+    margin: auto;
+    padding: 10px 20px 0px;
+  }
+  .service-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px -15px;
+    justify-content: center;
+  }
+  .offer-box {
+    border: 15px solid #4cbef1;
+    padding: 20px 10px 0px 10px;
+    text-align: center;
+    height: auto;
+    width: 400px;
+  }
+  .homebanner-item {
+    position: relative;
+    background-image: url(../img/lorem-ipsum-is-dummy.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+  }
+  .footer-inner-col1 {
+    width: 100%;
+    padding: 20px 10px;
+    order: 2;
+}
+.footer-inner-col2 {
+  width: 300px;
+  padding: 0px 40px;
+  order: 1;
+}
+}
+
+@media only screen and (max-width: 480px) {
+  .header-main {
+    position: relative;
+  }
+  .header-btn {
+    position: absolute;
+    top: 130px;
+  }
+  .header-main {
+    padding: 0px 0px 40px;
+  }
+  .menu {
+    position: relative;
+    right: 15px;
+    top: 35px;
+  }
+  .header-number a {
+    border: 4px solid #4cbef1;
+    font-size: 14px;
+  }
+  .header-book-btn a {
+    border: 4px solid #4cbef1;
+    font-size: 14px;
+  }
+  .about-col2 {
+    width: 550px;
+    margin: auto;
+    padding: 0px 20px 0px 20px;
+  }
+  .homebanner-item img {
+    height: 220px;
+  }
+  ul.main-menu.active {
+    height: auto;
+    display: block;
+    z-index: 999999999999;
+    top: 54px;
+    width: 200px;
+    right: 0;
+    left: -8px;
+    text-align: center;
+  }
+  .contactus-col {
+    width: 100%;
+    padding: 0px 10px;
+  }
+  .homebaner-text {
+    max-width: 100%;
+    margin: 0 0 0 auto;
+    padding: 0px;
+  }
+  .service-col {
+    width: 50%;
+    padding: 20px 15px;
+    text-align: center;
+  }
+  .offer-box {
+    border: 15px solid #4cbef1;
+    padding: 20px 10px 0px 10px;
+    text-align: center;
+    height: auto;
+    width: 260px;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .header-number {
+    margin-right: 10px;
+  }
+  .homebanner-item img {
+    height: 220px;
+  }
+  .homebaner-text h2 {
+    font-size: 20px;
+  }
+  .homebaner-text p {
+    font-size: 14px;
+    margin-top: 0px;
+  }
+  .banner-btn {
+    text-transform: uppercase;
+    border: 2px solid;
+    padding: 10px 20px;
+    font-weight: bold;
+    display: inline-block;
+  }
+  .discount-head h3 {
+    color: #0f9595;
+    font-size: 24px;
+  }
+  .offer-box h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #0f9595;
+  }
+  .blog-section h2 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    color: #0f9595;
+    font-weight: 700;
+    font-size: 22px;
+  }
+  .feture-box h3 {
+    font-size: 20px;
+    color: #0f9595;
+  }
+  .about.box h1 {
+    font-size: 20px;
+    color: #0f9595;
+  }
+  .about.box h2 {
+    font-size: 20px;
+    color: #0f9595;
+  }
+  .homebaner-text {
+    max-width: 100%;
+    margin: 0 0 0 auto;
+    padding: 10px;
+  }
+  .about.box p {
+    font-size: 14px;
+  }
+  .discount-list ul li {
+    font-size: 14px;
+  }
+  .offer-box p {
+    color: #6d6e71;
+    font-size: 14px;
+  }
+  .blog-descripsion p {
+    margin-bottom: 10px;
+    color: #6d6e71;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .footer-inner {
+    background-color: #0f9595;
+    padding: 20px 0px;
+}
+}
